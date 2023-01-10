@@ -4,6 +4,7 @@ The goal of this project is to develop a system that can analyse tweets related 
 upcoming product in order to gain insights about consumer sentiment and public 
 perception. This information can be used by the company to make informed 
 decisions about the marketing and promotion of the product.
+
 Methodology:
 The system will be built on top of the Twitter API, which will allow us to access a 
 stream of tweets in real-time. We will use natural language processing techniques to 
@@ -22,9 +23,9 @@ product launch. By tracking the sentiment of tweets related to the product, the
 company can get a sense of how well the launch is being received by consumers. 
 This information can be used to make adjustments to the marketing and promotion 
 of the product in order to maximize its success.
+
 Outcome:
 Overall, this project has the potential to provide valuable insights for companies 
 looking to launch a new product. By analysing tweets related to the product, we can 
 gain a better understanding of consumer sentiment and public perception, which can 
 be used to inform marketing and promotional strategies.
-`
