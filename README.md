@@ -1,4 +1,4 @@
-# PoductBuzz-Analysis
+# ProductBuzz-Analysis
 Objective:
 The goal of this project is to develop a system that can analyse tweets related to an 
 upcoming product in order to gain insights about consumer sentiment and public 
